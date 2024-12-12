@@ -11,7 +11,7 @@ import { useQuery } from '@tanstack/react-query'
 
 
 
-// import LoadingSpinner from '../Shared/LoadingSpinner'
+
 
 const Apartments = () => {
     const axiosSecure = useAxiosSecure()
