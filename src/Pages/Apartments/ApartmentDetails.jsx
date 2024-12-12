@@ -1,7 +1,7 @@
 
 import { Helmet } from 'react-helmet-async'
 
-// import useAxiosSecure from '../../hooks/useAxiosSecure'
+
 import { useQuery } from '@tanstack/react-query'
 import LoadingSpinner from '../../Shared/LoadingSpinner'
 import { useParams } from 'react-router-dom'
