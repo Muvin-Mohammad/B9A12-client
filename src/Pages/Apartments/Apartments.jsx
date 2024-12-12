@@ -22,7 +22,7 @@ const Apartments = () => {
             queryKey: ['apartments'],
             queryFn: async () => {
                 const { data } = await axiosSecure.get('/apartments');
-                // console.log(data);
+              
                 return data
             }
         }
