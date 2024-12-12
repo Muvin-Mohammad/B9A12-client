@@ -5,7 +5,7 @@ import feature3 from '../../../assets/image/feature3.png';
 
 
 import './AboutTheBuilding.css'
-{/* <link rel="stylesheet" href="./AboutTheBuilding.css" /> */ }
+
 
 const AboutTheBuilding = () => {
   return (
