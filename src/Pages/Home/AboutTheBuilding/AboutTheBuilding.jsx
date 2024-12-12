@@ -11,12 +11,7 @@ const AboutTheBuilding = () => {
   return (
     <div class=" container px-6 py-10 mx-auto">
       <section class="about-item bg-fixed pt-8 my-20">
-        {/* <div class="text-center mb-8">
-          <h2 class="text-4xl font-bold text-gray-800 mb-4">About the Building</h2>
-          <p class="text-gray-600 text-lg max-w-2xl mx-auto">
-            Discover the history and features of our magnificent building, designed with modern amenities and cutting-edge architecture.
-          </p>
-        </div> */}
+     
         <DivisionTitle title={'About the Building'} subTitle={'Discover the history and features of our magnificent building, designed with modern amenities and cutting-edge architecture.'} ></DivisionTitle>
 
         {/* <div className="md:flex bg-slate-500 bg-opacity-40  justify-center items-center pb-20 pt-12 px-36">
