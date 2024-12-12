@@ -12,7 +12,7 @@ const AddApartment = () => {
     ]);
 
 
-    // date range handler
+
     const handleDates = item => {
         console.log(item);
         setDates(item.selection)
