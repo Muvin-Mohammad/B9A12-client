@@ -28,7 +28,7 @@ const AboutTheBuilding = () => {
               <p className="mb-5 text-2xl">
                 Welcome to Safoon Estate, a modern and secure residential space offering comfortable apartments with state-of-the-art amenities.
               </p>
-              {/* <button className="btn btn-primary">Get Started</button> */}
+            
               <button className="btn btn-outline border-0  hover:bg-blue-600  border-b-4 mt-4">Explore Now</button>
             </div>
           </div>
