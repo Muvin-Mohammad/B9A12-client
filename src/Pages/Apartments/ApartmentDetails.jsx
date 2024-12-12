@@ -24,7 +24,7 @@ const ApartmentDetails = () => {
             queryKey: ['apartment', id],
             queryFn: async () => {
                 const { data } = await axiosRegular.get(`/apartment/${id}`);
-                // console.log(data);
+          
                 return data
             }
         }
