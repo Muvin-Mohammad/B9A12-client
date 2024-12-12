@@ -9,7 +9,7 @@ import Container from '../../Shared/Container'
 import ApartmentReservation from './ApartmentReservation'
 import Heading from '../../Shared/Heading'
 import useAxiosRegular from '../../hooks/useAxiosRegular'
-// import { axiosRegular } from '../../hooks/useAxiosRegular'
+
 
 
 const ApartmentDetails = () => {
