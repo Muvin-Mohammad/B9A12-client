@@ -1,0 +1,162 @@
+[
+  {
+    "apartmentImage": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fHww",
+    "floorNo": 1,
+    "blockName": "A",
+    "apartmentNo": "101",
+    "rent": 1200,
+    "agreementButton": "https://example.com/agreement/101"
+  },
+  {
+    "apartmentImage": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXBhcnRtZW50fGVufDB8fDB8fHww",
+    "floorNo": 2,
+    "blockName": "A",
+    "apartmentNo": "202",
+    "rent": 1250,
+    "agreementButton": "https://example.com/agreement/202"
+  },
+  {
+    "apartmentImage": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D",
+    "floorNo": 3,
+    "blockName": "B",
+    "apartmentNo": "303",
+    "rent": 1300,
+    "agreementButton": "https://example.com/agreement/303"
+  },
+  {
+    "apartmentImage": "https://images.unsplash.com/photo-1527772482340-7895c3f2b3f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D",
+    "floorNo": 4,
+    "blockName": "B",
+    "apartmentNo": "104",
+    "rent": 1100,
+    "agreementButton": "https://example.com/agreement/104"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1199873461/photo/brand-new-empty-modern-design-apartment-for-rental.webp?a=1&b=1&s=612x612&w=0&k=20&c=U22a7IGttpviK1gyk2HGuvClPME2y3AtmlGPHr_ptVM=",
+    "floorNo": 5,
+    "blockName": "C",
+    "apartmentNo": "205",
+    "rent": 1400,
+    "agreementButton": "https://example.com/agreement/205"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/2166309594/photo/a-modern-living-room-with-a-large-tv-on-the-wall.webp?a=1&b=1&s=612x612&w=0&k=20&c=9xdWTVyt-XRo__7emTm1uAbHoikXXiR7UvKGkQrISuw=",
+    "floorNo": 6,
+    "blockName": "C",
+    "apartmentNo": "406",
+    "rent": 1450,
+    "agreementButton": "https://example.com/agreement/406"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1560594282/photo/wide-shot-of-an-empty-cosy-kitchen-decorated-with-indian-style-stylish-traditional-south.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZKczLyH3LMwsT91udYiiwLj-JFpJdVR7ok0tZOAcghM=",
+    "floorNo": 7,
+    "blockName": "D",
+    "apartmentNo": "507",
+    "rent": 1500,
+    "agreementButton": "https://example.com/agreement/507"
+  },
+  {
+    "apartmentImage": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D",
+    "floorNo": 8,
+    "blockName": "D",
+    "apartmentNo": "308",
+    "rent": 1350,
+    "agreementButton": "https://example.com/agreement/308"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1274699010/photo/happy-woman-admiring-view-from-balcony.jpg?s=1024x1024&w=is&k=20&c=TEX8-uPLs5rkQlb9Ccz2V-tRyzrPXs-tJkgzVZTI80w=",
+    "floorNo": 9,
+    "blockName": "E",
+    "apartmentNo": "209",
+    "rent": 1100,
+    "agreementButton": "https://example.com/agreement/209"
+  },
+  {
+    "apartmentImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRj_RIN-0tP_xXYj6J_KO9j63J30lsUpfbg&s",
+    "floorNo": 10,
+    "blockName": "E",
+    "apartmentNo": "110",
+    "rent": 1150,
+    "agreementButton": "https://example.com/agreement/110"
+  },
+  {
+    "apartmentImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb4Z_yYj4bDDZcJT0cnJ9CvQAvEyUCz2gRw&s",
+    "floorNo": 11,
+    "blockName": "F",
+    "apartmentNo": "411",
+    "rent": 1600,
+    "agreementButton": "https://example.com/agreement/411"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1176972034/photo/woman-relaxing-on-balcony-holding-cup-of-coffee-or-tea-stock-photo.jpg?s=612x612&w=0&k=20&c=3vt6Ofj-XOxh2L1eJ2YsnXIlXGzf65lOWcO1aDDyZwo=",
+    "floorNo": 12,
+    "blockName": "F",
+    "apartmentNo": "512",
+    "rent": 1650,
+    "agreementButton": "https://example.com/agreement/512"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/864654638/photo/female-with-coffee-cup.jpg?s=612x612&w=0&k=20&c=BxnHnC3fsgR_3NbwMtrlkJE_9QCybpvhGP8QKUtEUjQ=",
+    "floorNo": 13,
+    "blockName": "G",
+    "apartmentNo": "313",
+    "rent": 1400,
+    "agreementButton": "https://example.com/agreement/313"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1158562243/photo/portrait-of-businesswoman-is-talking-to-someone-on-mobile-phone-and-drinking-a-cup-of-coffee.jpg?s=612x612&w=0&k=20&c=dZUxyrghWb-YWckVjq0FLnwSNIgBrLpbNBXRR54wXhQ=",
+    "floorNo": 14,
+    "blockName": "G",
+    "apartmentNo": "214",
+    "rent": 1250,
+    "agreementButton": "https://example.com/agreement/214"
+  },
+  {
+    "apartmentImage": "2wCEAAkGBxISEhMSEhIVFRUVEhUVFRUVFRAVFRUVFRUWFxUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGislHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf",
+    "floorNo": 15,
+    "blockName": "H",
+    "apartmentNo": "115",
+    "rent": 1350,
+    "agreementButton": "https://example.com/agreement/115"
+  },
+  {
+    "apartmentImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0k-bpd0yxFL9D44QsaPEPrnwNzyrzilxlg&s",
+    "floorNo": 16,
+    "blockName": "H",
+    "apartmentNo": "416",
+    "rent": 1500,
+    "agreementButton": "https://example.com/agreement/416"
+  },
+  {
+    "apartmentImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZhA9Ul78lEAsfeZarw9u3B5zuZKzqS6LbQ&s",
+    "floorNo": 17,
+    "blockName": "I",
+    "apartmentNo": "517",
+    "rent": 1550,
+    "agreementButton": "https://example.com/agreement/517"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/533912360/photo/indian-woman.jpg?s=612x612&w=0&k=20&c=bQMQcE1hunyP5fodizVU6mUZ4NMKjBK-OVN3Jsc3IAw=",
+    "floorNo": 18,
+    "blockName": "I",
+    "apartmentNo": "218",
+    "rent": 1200,
+    "agreementButton": "https://example.com/agreement/218"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/1273254610/photo/young-woman-at-home-stock-photo.jpg?s=612x612&w=0&k=20&c=BZM06_tbDRDXN6OJmlm9MYmFfK4bBGmn-4AguQRiED0=",
+    "floorNo": 19,
+    "blockName": "J",
+    "apartmentNo": "319",
+    "rent": 1450,
+    "agreementButton": "https://example.com/agreement/319"
+  },
+  {
+    "apartmentImage": "https://media.istockphoto.com/id/640252806/photo/woman-relaxing-on-balcony-holding-cup-of-coffee-or-tea.jpg?s=612x612&w=0&k=20&c=dTjx2Ssa95wKVTH3GJHMBAdzI4rhAi-oc1tCPeZdJOs=",
+    "floorNo":20 ,
+    "blockName": "J",
+    "apartmentNo": "120",
+    "rent": 1350,
+    "agreementButton": "https://example.com/agreement/120"
+  }
+]
