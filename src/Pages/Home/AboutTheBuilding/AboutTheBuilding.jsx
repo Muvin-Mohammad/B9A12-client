@@ -14,23 +14,7 @@ const AboutTheBuilding = () => {
      
         <DivisionTitle title={'About the Building'} subTitle={'Discover the history and features of our magnificent building, designed with modern amenities and cutting-edge architecture.'} ></DivisionTitle>
 
-        {/* <div className="md:flex bg-slate-500 bg-opacity-40  justify-center items-center pb-20 pt-12 px-36">
-          <div>
-            <img className="rounded" src={feature} alt="" />
-          </div>
-          <div className="md:ml-10">
-
-
-            <p className="text-white">
-
-              Welcome to Safoon Estate, a modern and secure residential space offering comfortable apartments with state-of-the-art amenities. </p>
-            <button className="btn btn-outline border-0 border-b-4 mt-4">Explore Now</button>
-          </div>
-
-
-
-
-        </div> */}
+      
         <div
           className="hero min-h-screen"
           style={{
