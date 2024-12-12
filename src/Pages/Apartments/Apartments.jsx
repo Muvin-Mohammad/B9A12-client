@@ -10,7 +10,7 @@ import { Helmet } from 'react-helmet-async'
 import { useQuery } from '@tanstack/react-query'
 
 
-// import Heading from '../Shared/Heading'
+
 // import LoadingSpinner from '../Shared/LoadingSpinner'
 
 const Apartments = () => {
