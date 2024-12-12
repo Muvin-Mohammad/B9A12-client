@@ -33,7 +33,7 @@ const Register = () => {
         }
     }
 
-    // Google Signin
+
     const handleGoogleSignIn = async () => {
         try {
             await signInWithGoogle()
