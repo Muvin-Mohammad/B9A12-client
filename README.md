@@ -72,8 +72,7 @@ Visit our live site here: [NovaHomes](https://assignment-12-novahomes-proj.web.a
 To clone and run this project locally, follow these steps:
 
 1. **Clone the Repository:**
-   
-  - git clone https://github.com/DevHadiuR/PHA12-NovaHomes-Proj-Client-Side.git
+   https://github.com/Muvin-Mohammad/B9A12-client
 
 3. Navigate to the Project Directory:
 
@@ -102,8 +101,6 @@ That's it! You can now explore and modify the project locally on your machine.
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-For further inquiries, please contact us at hadiurahman139@gmail.com
 
 ---
 
